@@ -140,71 +140,48 @@ python src/lead_conversion_funnel_analysis.py
 
 ### Conversión por Fuente de Campaña
 
-<div align="center">
-  <figure style="text-align:center; margin: auto;">
-    <img src="output/campaign_source_analysis/conversion_analysis_20250927_184445.png" width="600">
-        <figcaption style="text-align:center; font-weight:bold;"> Análisis de Tasa de Conversión por Fuente de Campaña</strong></figcaption>
-    <p style="max-width:600px; margin:auto; font-size:14px;">
-      Por tipo de curso, selectividad en Meta obtiene el mejor rendimiento (15.6%), mientras que FP muestra consistencia entre canales (9-13%). El mapa de calor revela que Meta es especialmente efectivo para selectividad, y Google Ads mantiene rendimientos equilibrados entre todos los tipos de curso.
-    </p>
-  </figure>
-</div>
+![Análisis de Tasa de Conversión por Fuente de Campaña](output/campaign_source_analysis/conversion_analysis_20250927_184445.png)
 
+**_Análisis de Tasa de Conversión por Fuente de Campaña_**
 
-<div align="center">
-  <figure>
-    <img src="output/campaign_source_analysis/performance_analysis_20250927_184445.png" width="600">
-    <figcaption><strong>Análisis de Rendimiento por Canal</strong></figcaption>
-    <p style="max-width:600px; margin:auto; font-size:14px;">
-      La matriz estratégica posiciona a Meta como estrella (alto ROI, alta conversión), Google Ads como solución equilibrada, y TikTok en zona de optimización. Meta presenta el ROI más alto (1014%) con conversión del 12.6%, mientras que TikTok requiere mejoras con ROI del 400% y conversión del 9%.
-    </p>
-  </figure>
-</div>
+Por tipo de curso, selectividad en Meta obtiene el mejor rendimiento (15.6%), mientras que FP muestra consistencia entre canales (9-13%). El mapa de calor revela que Meta es especialmente efectivo para selectividad, y Google Ads mantiene rendimientos equilibrados entre todos los tipos de curso.
+
+![Análisis de Rendimiento por Canal](output/campaign_source_analysis/performance_analysis_20250927_184445.png)
+
+***Análisis de Rendimiento por Canal***
+
+La matriz estratégica posiciona a Meta como estrella (alto ROI, alta conversión), Google Ads como solución equilibrada, y TikTok en zona de optimización. Meta presenta el ROI más alto (1014%) con conversión del 12.6%, mientras que TikTok requiere mejoras con ROI del 400% y conversión del 9%.
+
 
 
 ### Porcentaje de Conversión de Leads
 
-<div align="center">
-  <figure>
-    <img src="output/lead_conversion_funnel/funnel_by_source_20250927_214221.png" width="600">
-    <figcaption><strong>Embudo de Conversión Segmentado por Fuente de Lead</strong></figcaption>
-    <p style="max-width:600px; margin:auto; font-size:14px;">
-      Las campañas pagadas dominan el volumen total con 728 leads y una conversión del 11.1%, seguidas por partners/referidos que, aunque con menor volumen (83 leads), mantienen una eficiencia competitiva del 9.6%. El tráfico orgánico muestra el menor rendimiento con solo 6.8% de conversión.
-    </p>
-  </figure>
-</div>
+![Embudo de Conversión Segmentado por Fuente de Lead](output/lead_conversion_funnel/funnel_by_source_20250927_214221.png)
+
+***Embudo de Conversión Segmentado por Fuente de Lead***
+
+Las campañas pagadas dominan el volumen total con 728 leads y una conversión del 11.1%, seguidas por partners/referidos que, aunque con menor volumen (83 leads), mantienen una eficiencia competitiva del 9.6%. El tráfico orgánico muestra el menor rendimiento con solo 6.8% de conversión.
 
 
-<div align="center">
-  <figure>
-    <img src="output/lead_conversion_funnel/funnel_comparison_20250927_214221.png" width="600">
-    <figcaption><strong>Análisis Comparativo del Embudo de Conversión</strong></figcaption>
-    <p style="text-align:center; max-width:600px;">
-      La comparativa consolidada confirma que las campañas pagadas generan el 72.8% del volumen total de leads (728 de 1000), superando significativamente el promedio de conversión del 8.1%. Los partners/referidos destacan por su eficiencia, alcanzando el 9.6% de conversión con una inversión mínima.
-    </p>
-  </figure>
-</div>
+![Análisis Comparativo del Embudo de Conversión](output/lead_conversion_funnel/funnel_comparison_20250927_214221.png)
+
+***Análisis Comparativo del Embudo de Conversión***
+
+La comparativa consolidada confirma que las campañas pagadas generan el 72.8% del volumen total de leads (728 de 1000), superando significativamente el promedio de conversión del 8.1%. Los partners/referidos destacan por su eficiencia, alcanzando el 9.6% de conversión con una inversión mínima.
+
+![Análisis de Rendimiento por Campaña Individual](output/lead_conversion_funnel/campaign_performance_20250927_214221.png)
+
+***Análisis de Rendimiento por Campaña Individual***
+
+El análisis de rendimiento individual muestra que meta-selectividad lidera con una tasa de conversión del 15.6% y ROI del 1264%, mientras que tiktok-selectividad presenta el menor rendimiento con 3.5% de conversión. Las campañas de oposiciones mantienen consistencia en volumen de leads (90-100) con conversiones variables entre 9-13%.
 
 
-<div align="center">
-  <figure>
-    <img src="output/lead_conversion_funnel/campaign_performance_20250927_214221.png" width="600">
-    <figcaption><strong>Análisis de Rendimiento por Campaña Individual</strong></figcaption>
-    <p style="text-align:center; max-width:600px;">
-      El análisis de rendimiento individual muestra que meta-selectividad lidera con una tasa de conversión del 15.6% y ROI del 1264%, mientras que tiktok-selectividad presenta el menor rendimiento con 3.5% de conversión. Las campañas de oposiciones mantienen consistencia en volumen de leads (90-100) con conversiones variables entre 9-13%.
-    </p>
-  </figure>
-</div>
+![Análisis Temporal del Embudo de Conversión](output/lead_conversion_funnel/temporal_analysis_20250927_214221.png)
 
-<div align="center">
-  <figure>
-    <img src="output/lead_conversion_funnel/temporal_analysis_20250927_214221.png" width="600">
-    <figcaption><strong>Análisis Temporal del Embudo de Conversión.</strong></figcaption>
-    <p style="text-align:center; max-width:600px;">
-      El análisis temporal revela una tendencia descendente en la eficiencia global (-0.015% por semana), con picos de rendimiento del 42% en ciertas semanas. Las campañas pagadas mantienen estabilidad en generación de leads (10-25 semanales), mientras que otras fuentes presentan mayor volatilidad.
-    </p>
-  </figure>
-</div>
+***Análisis Temporal del Embudo de Conversión***
+
+El análisis temporal revela una tendencia descendente en la eficiencia global (-0.015% por semana), con picos de rendimiento del 42% en ciertas semanas. Las campañas pagadas mantienen estabilidad en generación de leads (10-25 semanales), mientras que otras fuentes presentan mayor volatilidad.
+
 
 ## Insights Clave para Negocio
 
