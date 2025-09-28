@@ -41,7 +41,7 @@ ucademy-data-assessment/
 │   └── lead_conversion_funnel/     # Resultados del objetivo 2
 ├── notebooks/                      # Notebooks para exploración y pruebas
 ├── docs/                           # Documentación del proyecto
-│   ├──  Automation_proposal.md     # Propuesta de automatización
+│   ├──  automation_proposal.md     # Propuesta de automatización
 │   └── src/                        # Documentación HTML generada para cada script
 ├── .gitignore                      # Archivos/carpetas que Git debe ignorar (ej. venv, __pycache__)
 ├── README.md                       # Este archivo
@@ -144,7 +144,8 @@ python src/lead_conversion_funnel_analysis.py
 
 **_Análisis de Tasa de Conversión por Fuente de Campaña_**
 
-Por tipo de curso, selectividad en Meta obtiene el mejor rendimiento (15.6%), mientras que FP muestra consistencia entre canales (9-13%). El mapa de calor revela que Meta es especialmente efectivo para selectividad, y Google Ads mantiene rendimientos equilibrados entre todos los tipos de curso.
+El análisis por canal y tipo de curso muestra que Meta lidera en selectividad (15.6%), Google Ads mantiene rendimientos consistentes en todos los cursos (~12-13%), y TikTok presenta gran variabilidad: fuerte en oposiciones (13.0%) pero débil en selectividad (3.5%) y FP (9.0%). El mapa de calor (*heatmap*) confirma la fortaleza de Meta en selectividad y FP, la consistencia de Google Ads y la necesidad de optimizar TikTok en selectividad. Selectividad tiene la mayor disparidad entre canales, oposiciones la más homogénea y FP muestra oportunidades de mejora.
+
 
 ![Análisis de Rendimiento por Canal](output/campaign_source_analysis/performance_analysis_20250927_184445.png)
 
