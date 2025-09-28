@@ -141,9 +141,9 @@ python src/lead_conversion_funnel_analysis.py
 ### Conversión por Fuente de Campaña
 
 <div align="center">
-  <figure>
+  <figure style="text-align:center; margin: auto;">
     <img src="output/campaign_source_analysis/conversion_analysis_20250927_184445.png" width="600">
-    <figcaption><strong>Análisis de Tasa de Conversión por Fuente de Campaña</strong></figcaption>
+        <figcaption style="text-align:center; font-weight:bold;"> Análisis de Tasa de Conversión por Fuente de Campaña</strong></figcaption>
     <p style="max-width:600px; margin:auto; font-size:14px;">
       Por tipo de curso, selectividad en Meta obtiene el mejor rendimiento (15.6%), mientras que FP muestra consistencia entre canales (9-13%). El mapa de calor revela que Meta es especialmente efectivo para selectividad, y Google Ads mantiene rendimientos equilibrados entre todos los tipos de curso.
     </p>
@@ -237,4 +237,3 @@ Si tienes dudas o quieres comentar el proyecto:
 
 📧 Email: celiacnavarro@gmail.com  
 🔗 LinkedIn: [Celia Cabello Navarro](https://www.linkedin.com/in/celiacabellonavarro)
->>>>>>> e965edd (Primer commit)
