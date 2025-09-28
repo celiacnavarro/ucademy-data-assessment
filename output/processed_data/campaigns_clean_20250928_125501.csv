@@ -1,0 +1,9 @@
+campaign_id,name,started_at,ended_at,cost,course_type,channel
+campaign_001,selectividad_tiktok,2024-06-15,2025-01-08,1773.41,selectividad,tiktok
+campaign_002,selectividad_meta,2024-08-26,,2029.23,selectividad,meta
+campaign_003,selectividad_googleads,2024-11-03,,2028.94,selectividad,googleads
+campaign_004,opos_tiktok,2025-02-03,2025-01-06,4598.68,opos,tiktok
+campaign_005,opos_meta,2025-01-18,,1007.72,opos,meta
+campaign_006,opos_googleads,2024-10-07,,1918.92,opos,googleads
+campaign_007,fp_tiktok,2025-05-09,2025-04-26,2061.29,fp,tiktok
+campaign_008,fp_meta,2025-01-19,,2342.89,fp,meta

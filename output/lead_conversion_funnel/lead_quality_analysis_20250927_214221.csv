@@ -1,0 +1,12 @@
+source_category,channel,course_type,leads_count,inscriptions_count,avg_days_to_convert,avg_inscription_value
+organic,web,mixed,103,7,-12.9,1966.71
+paid_campaign,tiktok,fp,100,9,58.0,2024.78
+paid_campaign,tiktok,opos,100,13,7.5,1369.21
+paid_campaign,meta,selectividad,96,15,13.2,1847.41
+paid_campaign,googleads,selectividad,95,12,-9.3,2246.57
+paid_campaign,meta,opos,90,11,30.4,1873.67
+paid_campaign,tiktok,selectividad,85,3,137.3,1774.34
+paid_campaign,meta,fp,83,8,52.6,1798.46
+paid_campaign,googleads,opos,79,10,-39.4,1702.97
+partner,referral,mixed,83,8,-1.8,2142.06
+unknown,unknown,mixed,86,4,28.8,1541.91

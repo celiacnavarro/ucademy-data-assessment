@@ -1,0 +1,26 @@
+
+RESUMEN DE PROCESAMIENTO DE DATOS
+Fecha de Procesamiento: 2025-09-28T12:55:01.895243
+
+RESUMEN DE DATOS:
+• Total Campañas: 8
+• Total Leads: 1,000
+• Total Inscripciones: 100
+• Rango Fechas Leads: 2024-06-03 00:00:00 to 2025-06-02 00:00:00
+• Rango Fechas Inscripciones: 2024-06-05 00:00:00 to 2025-05-30 00:00:00
+
+BREAKDOWN POR FUENTES DE LEADS:
+• Paid_Campaign: 728 (72.8%)
+• Organic: 103 (10.3%)
+• Unknown: 86 (8.6%)
+• Partner: 83 (8.3%)
+
+CANALES DE CAMPAÑA:
+• Tiktok: 3 campañas
+• Meta: 3 campañas
+• Googleads: 2 campañas
+
+TIPOS DE CURSO:
+• Selectividad: 3 campañas
+• Opos: 3 campañas
+• Fp: 2 campañas

@@ -1,0 +1,58 @@
+[
+    {
+        "campaign_id": "CAMPAIGN_001",
+        "name": "Selectividad_TikTok",
+        "started_at": "2024-06-15",
+        "ended_at": "2025-01-08",
+        "cost": "€1773,41"
+    },
+    {
+        "campaign_id": "CAMPAIGN_002",
+        "name": "Selectividad_Meta",
+        "started_at": "2024-08-26",
+        "ended_at": null,
+        "cost": "€2029,23"
+    },
+    {
+        "campaign_id": "CAMPAIGN_003",
+        "name": "Selectividad_googleads",
+        "started_at": "2024-11-03",
+        "ended_at": null,
+        "cost": "€2028,94"
+    },
+    {
+        "campaign_id": "CAMPAIGN_004",
+        "name": "opos_TikTok",
+        "started_at": "2025-02-03",
+        "ended_at": "2025-01-06",
+        "cost": "€4598,68"
+    },
+    {
+        "campaign_id": "CAMPAIGN_005",
+        "name": "opos_meta",
+        "started_at": "2025-01-18",
+        "ended_at": null,
+        "cost": "€1007,72"
+    },
+    {
+        "campaign_id": "CAMPAIGN_006",
+        "name": "opos_googleads",
+        "started_at": "2024-10-07",
+        "ended_at": null,
+        "cost": "€1918,92"
+    },
+    {
+        "campaign_id": "CAMPAIGN_007",
+        "name": "fp_tiktok",
+        "started_at": "2025-05-09",
+        "ended_at": "2025-04-26",
+        "cost": "€2061,29"
+    },
+    {
+        "campaign_id": "CAMPAIGN_008",
+        "name": "fp_meta",
+        "started_at": "2025-01-19",
+        "ended_at": null,
+        "cost": "€2342,89"
+    }
+]

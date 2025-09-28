@@ -1,0 +1,26 @@
+{
+  "data_overview": {
+    "total_campaigns": 8,
+    "total_leads": 1000,
+    "total_inscriptions": 100,
+    "date_range_leads": "2024-06-03 00:00:00 to 2025-06-02 00:00:00",
+    "date_range_inscriptions": "2024-06-05 00:00:00 to 2025-05-30 00:00:00"
+  },
+  "lead_sources": {
+    "paid_campaign": 728,
+    "organic": 103,
+    "unknown": 86,
+    "partner": 83
+  },
+  "campaign_channels": {
+    "tiktok": 3,
+    "meta": 3,
+    "googleads": 2
+  },
+  "course_types": {
+    "selectividad": 3,
+    "opos": 3,
+    "fp": 2
+  },
+  "processing_date": "2025-09-28T12:55:01.895243"
+}

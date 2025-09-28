@@ -1,0 +1,34 @@
+
+RESUMEN EJECUTIVO - ANÁLISIS DE EMBUDO DE CONVERSIÓN
+2025-09-27 21:42:55
+
+MÉTRICAS GLOBALES DEL EMBUDO:
+• Total Leads: 1,000
+• Total Inscripciones: 100
+• Conversión Global: 10.00%
+
+ANÁLISIS POR FUENTE:
+• Mejor Fuente: Campañas Pagadas (11.13%)
+• Peor Fuente: Otros/Desconocido (4.65%)
+• Diferencia: 6.48 puntos porcentuales
+
+
+MEJOR CAMPAÑA:
+• Nombre: selectividad_meta
+• Canal: meta - selectividad
+• Conversión: 15.63%
+• Leads: 96
+• Inscripciones: 15
+
+
+TENDENCIA TEMPORAL:
+• Tendencia de Conversión: MEJORANDO (+9.4%)
+• Conversión Primer Mes: 6.7%
+• Conversión Último Mes: 16.1%
+• Total Semanas Analizadas: 53
+
+RECOMENDACIONES ESTRATÉGICAS:
+• Potenciar inversión en: Campañas Pagadas
+• Optimizar o reducir: Otros/Desconocido
+• Monitorear evolución temporal para ajustar estrategias
+• Enfocar esfuerzos en mejorar conversión de fuentes de alto volumen

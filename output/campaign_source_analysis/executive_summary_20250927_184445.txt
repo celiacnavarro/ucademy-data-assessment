@@ -1,0 +1,22 @@
+
+RESUMEN EJECUTIVO DE CAMPAÑAS - OBJETIVO 1
+Fecha de Análisis: 2025-09-27 18:45:03
+
+MÉTRICAS GLOBALES:
+• Total Leads: 728
+• Total Inscripciones: 81
+• Tasa de Conversión Global: 11.13%
+• ROI Global: 733.53%
+• CPA Global: €219.27
+• Inversión Total: €17,761.08
+• Ingresos Totales: €148,043.66
+
+MEJORES PERFORMERS:
+• Mejor Canal (Conversión): meta (12.64%)
+• Mejor Curso (Conversión): opos (12.64%)
+• Mejor Canal (ROI): meta (1065.63%)
+
+RECOMENDACIONES ESTRATÉGICAS:
+• Enfocar presupuesto en: meta
+• Promover más: opos
+• Revisar canales con ROI negativo para optimización
